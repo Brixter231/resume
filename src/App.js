@@ -50,7 +50,7 @@ function Contact() {
         brixter231@gmail.com <FontAwesomeIcon icon={faEnvelope} /> <br />
         09353771375 <FontAwesomeIcon icon={faPhone} /> <br />
         Apalit, Pampanga, Philippines <FontAwesomeIcon icon={faLocationDot} /> <br />
-        <a href="https://www.facebook.com/daniel.manarang" target="_blank" rel="noopener noreferrer">Facebook</a> <FontAwesomeIcon icon={faFacebook} /> <br />
+        <a href="https://www.facebook.com/brixter.23" target="_blank" rel="noopener noreferrer">Facebook</a> <FontAwesomeIcon icon={faFacebook} /> <br />
       </p>
     </div>
   );
